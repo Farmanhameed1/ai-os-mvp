@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+aiofiles
+requests
+# Add bindings for GPT4All or llama.cpp as needed, examples:
+# gpt4all
+# llama-cpp-python
